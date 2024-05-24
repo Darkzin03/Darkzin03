@@ -7,7 +7,3 @@
 - ⚡ Fun fact: ...
 - Preciso de ajuda para aprender como melhorar minha formar de estudar programação porfavor alguem me ajuda!
 
-<!---
-Darkzin03/Darkzin03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
